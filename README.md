@@ -10,7 +10,7 @@
 #### 可以让你在上班、上课等恶劣环境下安全隐蔽地背单词
 
 ![License MIT](https://img.shields.io/badge/license-MIT-orange)
-![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.2-blue)
+![GitHub release (latest by date)](https://img.shields.io/badge/release-v3.0-blue)
 ![GitHub issues](https://img.shields.io/github/issues/Uahh/ToastFish)
 [![.NET Build & Test](https://github.com/Uahh/ToastFish/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/Uahh/ToastFish/actions/workflows/dotnet-desktop.yml)
 
@@ -86,4 +86,4 @@ git clone https://github.com/Uahh/ToastFish
 
 ## 感谢
 
-感谢[@itorr](https://github.com/itorr)为本软件提供的支持、建议和测试！
+感谢@itorr为本软件提供的支持、建议和测试！

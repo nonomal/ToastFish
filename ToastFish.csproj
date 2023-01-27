@@ -146,7 +146,10 @@
     <Compile Include="Model\PushControl\PushJpWords.cs" />
     <Compile Include="Model\PushControl\PushWords.cs" />
     <Compile Include="Model\PushControl\WordType.cs" />
+    <Compile Include="Model\SM2plus\Card.cs" />
+    <Compile Include="Model\SM2plus\Parameters.cs" />
     <Compile Include="Model\SqliteControl\Select.cs" />
+    <Compile Include="Model\StartWithWindows\HotKey.cs" />
     <Compile Include="Model\StartWithWindows\StartWithWindows.cs" />
     <Compile Include="Resources\IconChika.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -235,6 +238,9 @@
     <PackageReference Include="System.Data.SQLite">
       <Version>1.0.113.7</Version>
     </PackageReference>
+    <PackageReference Include="System.Reactive">
+      <Version>5.0.0</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\chika16.ico" />
@@ -244,6 +250,7 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="chika64.ico" />
+    <Content Include=".gitignore" />
     <Content Include="Resources\使用说明.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
